@@ -1,0 +1,11 @@
+pandas
+numpy
+streamlit
+statsmodels
+scikit-learn
+optuna
+prophet
+lightgbm
+matplotlib
+openpyxl
+holidays
